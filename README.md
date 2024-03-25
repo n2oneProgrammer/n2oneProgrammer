@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
-<h3 align="center">I am an IT class student at Zespół Szkół Łączności in Kraków. I am very passionate about programming and IT</h3>
+<h3 align="center">I am an student of Automatic Control and Robotics at AGH in Kraków.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n2oneprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="n2oneprogrammer" /> </p>
 
