@@ -60,10 +60,6 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=n2oneProgrammer&theme=dracula" alt="trophies" />
-</div>
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/n2oneProgrammer/n2oneProgrammer/output/pacman-contribution-graph-dark.svg">
